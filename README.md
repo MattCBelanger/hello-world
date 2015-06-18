@@ -1,4 +1,4 @@
 # hello-world
 Bit Hub Pratice
 
-Hello my name is Matt and I and interested in leanring more about programming!
+Hello my name is Matt and I am interested in learning more about programming!
